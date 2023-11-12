@@ -1,8 +1,13 @@
+### Name : VASUNDRA SRI R
+### Reg no: 212222230168
 # Experiment-08- Encoders-and-decoders 
-### AIM: To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
-### THEORY 
+## AIM: 
+To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
+## HARDWARE REQUIRED:  
+– PC, Cyclone II , USB flasher
+## SOFTWARE REQUIRED:  
+Quartus prime
+## THEORY 
 
 ## Encoders
 Binary code of N digits can be used to store 2N distinct elements of coded information. This is what encoders and decoders are used for. Encoders convert 2N lines of input into a code of N bits and Decoders decode the N bits into 2N lines.
@@ -82,10 +87,6 @@ D7 = X Y Z
 
 
 ## PROGRAM 
-```
-Developed by: VASUNDRA SRI R
-RegisterNumber: 212222230168
-```
 ### ENCODER:
 ```
 module enc(a0,a1,a2,y0,y1,y2,y3,y4,y5,y6,y7);
