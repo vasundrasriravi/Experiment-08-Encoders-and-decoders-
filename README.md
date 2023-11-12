@@ -1,6 +1,6 @@
 ### Name : VASUNDRA SRI R
 ### Reg no: 212222230168
-# Experiment-08- Encoders-and-decoders 
+# Experiment-07- Encoders-and-decoders 
 ## AIM: 
 To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
 ## HARDWARE REQUIRED:  
